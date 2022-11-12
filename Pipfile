@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+selenium = "==3.141.0"
+webdriver-manager = "*"
+pytest = "*"
+pytest-xdist = "*"
+pytest-html = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
