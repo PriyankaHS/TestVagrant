@@ -1,6 +1,12 @@
+![TestVagrant](https://user-images.githubusercontent.com/95631736/202631028-7d93378a-a38c-49c2-9812-3c5f7fc55f3a.jpg)
+
+
 # TestVagrant Assesment
 
 Root folder must be *TestVagrant*
+
+## Technologies Used 
+> Selenium, Python, Pytest
 
 ## Clone Framework into Your Machine
 > git clone https://github.com/PriyankaHS/TestVagrant
