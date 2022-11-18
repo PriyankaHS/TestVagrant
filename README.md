@@ -11,13 +11,13 @@ Root folder must be *TestVagrant*
 ## Clone Framework into Your Machine
 > git clone https://github.com/PriyankaHS/TestVagrant
 
-## Navigate to Repo Folder in commend line
+## Navigate to Repo Folder in command line
 > cd TestVagrant
 
 ## Setup to run tests
 Required -> Python(version >= 3.5.0)
 
-## Steps to install from cmd line:
+## Steps to install from command line
 #### Pipenv 
 > pip install pipenv || python3 -m pip install pipenv
 
